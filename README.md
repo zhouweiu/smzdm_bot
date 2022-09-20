@@ -8,8 +8,8 @@
     <img src="https://img.shields.io/badge/Repo size-35.8kb-red"/>
 </p>
 
-# 1. 实现功能
-+ `什么值得买`每日签到
+# 1. 实现功能 
++ `什么值得买`每日签 到 
 + 通过 `SERVERCHAN`推送简单的运行结果到微信
 + 由 `github actions` 每日7点定时运行
 
